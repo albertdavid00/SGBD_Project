@@ -7,3 +7,5 @@ For every shop in the database information about the customers and their orders 
 * Mutating triggers
 * Cursors
 
+### Conceptual Diagram
+![alt text](https://github.com/albertdavid00/Shops-Management-Database/blob/main/ConceptualDiagram.png?raw=true)
